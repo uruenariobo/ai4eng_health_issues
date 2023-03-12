@@ -15,3 +15,7 @@ CÓDIGO: 2508401 - iNGENIERÍA DE SISTEMAS V4
 Descripción del problema predictivo a resolver:
 
 Dadas las características de un paciente y su historia clínica vamos a predecir la probabilidad de supervivencia de dicho paciente.
+
+Dataset a utilizar:
+
+Vamos a usar el dataset de kaggle “Patient Survival Prediction” (enlace)
