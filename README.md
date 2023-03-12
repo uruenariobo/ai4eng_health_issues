@@ -2,6 +2,7 @@
 
 Miguel Angel Urueña Riobo		miguel.uruena@udea.edu.co
 					C.C 1.006.121.797
+					
 Gaia Ramirez Hincapíe		gaia.ramirez@udea.edu.co
 					C.C 1.005.273.358
 
