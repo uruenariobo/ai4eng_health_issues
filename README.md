@@ -1,4 +1,4 @@
-# ai4eng_health_issues
+# Patient Survival Prediction
 
 Miguel Angel Urueña Riobo		miguel.uruena@udea.edu.co
 					C.C 1.006.121.797
