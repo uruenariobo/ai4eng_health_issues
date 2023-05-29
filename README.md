@@ -25,5 +25,5 @@ Vamos a usar el dataset de kaggle “Patient Survival Prediction” (https://www
 
 Video Entrega 2: https://youtu.be/Oig9G_DBD1s
 
-Video Entrega Final: 
+Video Entrega Final: https://youtu.be/UtJCYPc8oGE
 
