@@ -19,6 +19,6 @@ Dadas las características de un paciente y su historia clínica vamos a predeci
 
 Dataset a utilizar:
 
-Vamos a usar el dataset de kaggle “Patient Survival Prediction” (enlace)
+Vamos a usar el dataset de kaggle “Patient Survival Prediction” (https://www.kaggle.com/datasets/mitishaagarwal/patient?resource=download)
 
 Video Entrega 2: https://youtu.be/Oig9G_DBD1s
